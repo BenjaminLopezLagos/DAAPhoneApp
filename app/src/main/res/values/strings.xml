@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">DAA Phone App</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="previous">Volver.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="scroll_view_hint">Deslizar dedo para ver más imágenes.</string>
+    <string name="specs_value">Ver especificaciones</string>
+    <string name="textview">TextView</string>
+    <string name="ver_precio_actual">Ver precio actual</string>
+    <string name="procesador">Procesador:</string>
+    <string name="exynos_7420_64_bits_y_14_nm_4x2_1_ghz_a57_4x1_5_ghz_a53">Exynos 7420 4x2.1 GHz (A57) + 4x1,5 GHz (A53)</string>
+    <string name="ram">RAM:</string>
+    <string name="_3_gb_lpddr4">3 GB LPDDR4</string>
+    <string name="memoria">Memoria:</string>
+    <string name="software_ver">Software ver:</string>
+    <string name="_32_64_128_gb_no_ampliable">32 / 64 / 128 GB (no ampliable)</string>
+    <string name="android_5_0_2">Android 5.0.2</string>
+    <string name="c_maras">Cámaras:</string>
+    <string name="principal_de_16_mp_f1_9_con_estabilizaci_n_v_deo_uhd_secundaria_5_mp_f1_9">Principal de 16 MP // UHD // Secundaria 5 MP</string>
+    <string name="bater_a">Batería:</string>
+    <string name="_2550_mah_no_extra_ble_carga_inal_mbrica_qi_pma">2550 mAh (no extraíble) Carga inalámbrica (Qi/PMA)</string>
+    <string name="deslizar_dedo_verticalmente_para_ver_m_s_fotos">Deslizar dedo verticalmente para ver más fotos.</string>
+</resources>
